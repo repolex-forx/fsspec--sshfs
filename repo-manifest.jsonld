@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/fsspec/sshfs/commit/3d2d681b4abbaa412ee961b9953d57ee277a019a",
       "git:hexsha": "3d2d681b4abbaa412ee961b9953d57ee277a019a",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "2026.8.0"
     },
     {
