@@ -1,0 +1,11 @@
+{
+  "org": "fsspec",
+  "repo": "sshfs",
+  "versions": [
+    {
+      "commit": "3d2d681b4abbaa412ee961b9953d57ee277a019a",
+      "tag": "2026.8.0",
+      "parsed_at": "2026-10-17T04:12:54.001471+00:00"
+    }
+  ]
+}
